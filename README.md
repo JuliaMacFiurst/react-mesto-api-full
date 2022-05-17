@@ -5,5 +5,6 @@
 
 Публичный IP-адрес сервера: 51.250.82.60
 
-[README FRONTEND]()
-[README BACKEND]()
+[README FRONTEND](https://github.com/JuliaMacFiurst/react-mesto-api-full/blob/main/frontend/README.md)
+
+[README BACKEND](https://github.com/JuliaMacFiurst/react-mesto-api-full/tree/main/backend#readme)
