@@ -92,7 +92,7 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: "http://api.mesto.juliamakhlin.nomoredomains.xyz",
+  baseUrl: "https://api.mesto.juliamakhlin.nomoredomains.xyz",
   credentials: 'include',
   headers: {
     'Content-Type': 'application/json'

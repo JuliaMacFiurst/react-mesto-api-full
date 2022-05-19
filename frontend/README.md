@@ -73,4 +73,4 @@
 
 #### `npm run build`
  
-Ссылка на проект [ТУТ](http://mesto.juliamakhlin.nomoredomains.xyz)
+Ссылка на проект [ТУТ](https://mesto.juliamakhlin.nomoredomains.xyz)

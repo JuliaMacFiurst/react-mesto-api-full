@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from "react";
+import React, { useState, useEffect } from "react";
 import { Route, Switch, useHistory } from "react-router-dom";
 import Header from "./Header.js";
 import Main from "./Main.js";
@@ -192,6 +192,10 @@ export default function App() {
           })
           .catch((err) => {
             setLoggedIn(false);
+            setMessage({
+              imgPath: unSuccess,
+              text: "Что-то пошло не так! Попробуйте ещё раз.",
+            });
             console.log(err);
           })
       })
